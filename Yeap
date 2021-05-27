@@ -1,0 +1,4 @@
+$install--android-stu
+$sudo snap install android-studio --
+$sudo apt install openjdk-8-jdk
+$android-studio-ide-202.7351085-cros.exe
